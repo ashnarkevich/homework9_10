@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font: 1em sans-serif;
+    text-align: center;
+    color: #413d4b;
+    padding-top: 30px;
+}
+
+.table{
+    width:80%;
+    margin:0 auto;
+    text-align: center;
+}
+
+.table-title{
+    background-color: #cff;
+}
+
+.table-col{
+    border: 1px solid #000;
+
+}
+form {
+    padding: 5px;
+    margin-bottom: 30px;
+}
+
+input, label {
+    margin: 5px;
+}
+
+.form-btn{
+    width: 5em;
+    padding: 5px;
+    background: #0cf;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.menu{
+    margin: 30px auto;
+}
+
+.menu-item{
+    margin: 10px 20px;
+    display: inline-block;
+}
+
